@@ -1,0 +1,15 @@
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.csproj.AssemblyReference.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.AssemblyInfoInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.AssemblyInfo.cs
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.csproj.CoreCompileInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\bin\Debug\net6.0\odd.or.even.exe
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\bin\Debug\net6.0\odd.or.even.deps.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\bin\Debug\net6.0\odd.or.even.runtimeconfig.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\bin\Debug\net6.0\odd.or.even.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\bin\Debug\net6.0\odd.or.even.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\refint\odd.or.even.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\odd.or.even.genruntimeconfig.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\odd.or.even\obj\Debug\net6.0\ref\odd.or.even.dll
